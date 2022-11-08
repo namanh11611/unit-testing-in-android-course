@@ -8,6 +8,7 @@ import com.techyourchance.unittestingfundamentals.example3.Interval;
 
 public class IntervalsAdjacencyDetectorTest {
 
+    // System under test
     IntervalsAdjacencyDetector SUT;
 
     @Before

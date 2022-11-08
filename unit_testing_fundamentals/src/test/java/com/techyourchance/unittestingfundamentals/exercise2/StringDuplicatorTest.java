@@ -7,6 +7,7 @@ import org.junit.Test;
 
 public class StringDuplicatorTest {
 
+    // System under test
     StringDuplicator SUT;
 
     @Before

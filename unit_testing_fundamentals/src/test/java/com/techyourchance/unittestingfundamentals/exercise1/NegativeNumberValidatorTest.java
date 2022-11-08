@@ -7,6 +7,7 @@ import org.junit.Test;
 
 public class NegativeNumberValidatorTest {
 
+    // System under test
     NegativeNumberValidator SUT;
 
     @Before
